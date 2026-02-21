@@ -92,3 +92,6 @@ git clone ttps://github.com/harshinisrinivasan15/Parkinsons_Disease-Prediction.g
 ## 👨‍💻 Author
 
 Harshini Srinivasan
+
+## Contact 📞
+If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/harshini-srinivasan-7a1981372/)
