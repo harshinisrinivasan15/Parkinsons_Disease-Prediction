@@ -29,7 +29,7 @@
 
 - Visualization: Matplotlib
 
-- Computer Vision (if used): OpenCV
+- Computer Vision: OpenCV
 
 - Version Control: Git
 
